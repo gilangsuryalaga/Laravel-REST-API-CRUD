@@ -10,7 +10,7 @@ An REST API written using PHP and Laravel.This project includes Migrations,Model
 ## Installation
     Follow these steps:
      1. Clone or download this project
-     2. Create Database with the name 'rest-api' but, you can create the name with whatever you want but make sure to change the           .Env file
+     2. Create Database with the name 'rest-api' but, you can create the name with whatever you want but make sure to change the .Env file
      3. Type:
      ...
      php artisan migrate
